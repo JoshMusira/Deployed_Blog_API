@@ -1,5 +1,5 @@
 {
-  "name": "Joshua",
+  "name": "joshua",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,8 +8,7 @@
     "node": ">=18.16.0"
   },
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "Joshua",
